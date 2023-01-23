@@ -35,15 +35,6 @@ public class Ramya_Assignament1 {
     public static void main(String[] args)
     {
         String s="rediffmail.com";
-        System.out.println(s.contains(".com"));
-        System.out.println(s.contains("@"));
-        System.out.println(s.equals("rediffmail.com"));
-        System.out.println(s.equalsIgnoreCase("Rediffmail.com"));
-
-    }
-    public static void main(String[] args)
-    {
-        String s="rediffmail.com";
         String t="Rediffmail.com";
         // System.out.println(s.substring(2,6));
         System.out.println(s.equals(t));
